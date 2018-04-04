@@ -1,4 +1,4 @@
-# [kao-router-loader](https://github.com/pndgz/kao-router-loader)
+# [koa-router-loader](https://github.com/pndgz/koa-router-loader)
 
 > koa2 router loader
 
